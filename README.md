@@ -30,7 +30,7 @@ $ cd ./target
 
 -------OR--------
 
-You can download [chutes-and-ladders-game.jar]() and open command prompt at downloaded location to run the program.
+You can download [chutes-and-ladders-game.jar](https://github.com/dvp3010/chutes-and-ladders-game/raw/master/target/chutes-and-ladders-game.jar) and open command prompt at downloaded location to run the program.
 
 ### Usage
 ```sh
