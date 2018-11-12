@@ -2,20 +2,20 @@
 Priceline Coding Exercise solution
 
 ### Assignment
-In Java, code a simulation of the classic children’s game “Chutes And Ladders.” There is no “right” answer to
+In Java, code a simulation of the classic childrenâ€™s game â€œChutes And Ladders.â€ There is no â€œrightâ€ answer to
 this assignment, we will be evaluating the design choices and coding style.
 
 **Instructions**
 - Use this document as a business spec
 - Design and develop the business objects only (do not create a GUI)
-- To demonstrate that the software works, write a “main” method that simulates 2 to 4 four players and
+- To demonstrate that the software works, write a â€œmainâ€ method that simulates 2 to 4 four players and
 generates output similar to the sample below
 - Deliver the final code in .java files and any other resources required to run the program
 - Please indicate in comments or in a separate document any assumptions you make about the
-requirements, as well as any “ToDo” items that you would do if this was a “real” project but that are
+requirements, as well as any â€œToDoâ€ items that you would do if this was a â€œrealâ€ project but that are
 not in the requirements given.
 
-click [here]() for full specs
+click [here](https://github.com/dvp3010/chutes-and-ladders-game/blob/master/ChutesandLaddersAssignment.pdf) for full specs
 
 ### Prerequisites for running executable jar
 - Java 1.8
